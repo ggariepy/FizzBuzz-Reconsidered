@@ -10,5 +10,5 @@ extend the range of integers to be tested by creating static readonly min and ma
 
 Is this overkill for FizzBuzz?  Yes.  Undoubtedly.  Personally my go-to approach is usually the simplest one that gets the job done.  That being said, code can be written
 for a variety of reasons, not the least of which is to maximize future modification, which this code attempts to do.  Sometimes you gotta just get it done, other times
-you know things are going to change and you want to make it as easy as possoble for your future self (or team members) to roll with the punches.
+you know things are going to change and you want to make it as easy as possible for your future self (or team members) to roll with the punches.
 
